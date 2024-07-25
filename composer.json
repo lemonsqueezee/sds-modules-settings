@@ -1,0 +1,13 @@
+{
+    "name": "lemonsqueezee/sds-modules-settings",
+    "type": "symfony-bundle",
+    "description": "Settings module for SDSv1",
+    "keywords": ["php", "symfony", "reusable bundle", "sds"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Adamson",
+            "email": "paadamson@me.com"
+        }
+    ]
+}
